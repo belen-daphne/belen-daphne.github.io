@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>2.0 Entrevista</title>
+      <link>/docs/entrevista/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/entrevista/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
       <title>Mycobench</title>
       <link>/docs/mycobench/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -40,15 +49,6 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/molde/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>2.3 Fotografía &#43; Origami</title>
-      <link>/docs/entrevista/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/entrevista/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
