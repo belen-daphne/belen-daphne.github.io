@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belén Verdejo on Nombre Apellido - Taller Producto 2021</title>
+    <link>/</link>
+    <description>Recent content in Belén Verdejo on Nombre Apellido - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Durotaxis</title>
+      <link>/docs/durotaxis/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/durotaxis/</guid>
+      <description>Construcción 3D en base a fotos.</description>
+    </item>
+    
+    <item>
+      <title>Mycobench</title>
+      <link>/docs/mycobench/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/mycobench/</guid>
+      <description>Proceso de creación de Mycobench, banca experimental para conservación ecológica creada vía impresión.</description>
+    </item>
+    
+    <item>
+      <title>2.1: Fotogrametría</title>
+      <link>/docs/fotogrametr%C3%ADa/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/fotogrametr%C3%ADa/</guid>
+      <description>Construcción 3D en base a fotos.</description>
+    </item>
+    
+    <item>
+      <title>2.2 Molde Rhino</title>
+      <link>/docs/molde/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/molde/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>2.3 Fotografía &#43; Origami</title>
+      <link>/docs/entrevista/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/entrevista/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>2.3 Fotografía &#43; Origami</title>
+      <link>/docs/origami/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/origami/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>/docs/shortcodes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/shortcodes/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>
